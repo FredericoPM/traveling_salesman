@@ -1,1 +1,2 @@
-# traveling_salesman
+# Traveling salesman
+Este trabalho tem o foco de analisar diversas soluções para um mesmo problema, observando as vantagens e as desvantagens de cada uma dessas implementações. O caixeiro viajante foi o problema escolhido como foco neste projeto, esse problema consiste no seguinte: dado um conjunto de cidades, qual seria a rota mais curta na qual se percorre todas as cidades e retorna para a cidade inicial. Para solucionar o problema foram escolhidas soluções de 3 diferentes paradigmas, sendo eles: força bruta, programação dinâmica e algoritmo guloso.
